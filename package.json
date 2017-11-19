@@ -10,7 +10,7 @@
     "prop-types": "^15.6.0",
     "react": "16.0.0",
     "react-native": "0.50.3",
-    "react-native-calendars": "git+https://github.com/wix/react-native-calendars.git",
+    "react-native-calendars": "git+https://github.com/bjku/react-native-calendars.git",
     "react-navigation": "^1.0.0-beta.19"
   },
   "devDependencies": {
